@@ -12,3 +12,4 @@ ghostel-pkg.el
 ghostel-module.*
 !ghostel-module.zig
 public/
+tmp/
